@@ -1,0 +1,2897 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7479262,1.3445253 ]
+    },
+    "properties": {
+    "Date":"4 Aug",
+    "Time":"0900h - 1030h",
+    "Location":"Bukit Batok ActiveSG Gym (2 Bukit Batok Street 22)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7476043,1.3499787 ]
+    },
+    "properties": {
+    "Date":"3 Aug",
+    "Time":"1800h - 1830h",
+    "Location":"Food Paradise (21 Bukit Batok Central)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7382609,1.3222249 ]
+    },
+    "properties": {
+    "Date":"3 Aug",
+    "Time":"1430h - 1500h",
+    "Location":"Sheng Siong Supermarket (61 Teban Gardens Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7969301,1.4509535 ]
+    },
+    "properties": {
+    "Date":"2 Aug",
+    "Time":"2140h - 2210h",
+    "Location":"Sheng Siong Supermarket (200 Woodlands Industrial Park E7)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7259853,1.3528932 ]
+    },
+    "properties": {
+    "Date":"2 Aug",
+    "Time":"1400h - 1530h",
+    "Location":"Tang Tea House (414 Jurong West Street 42)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7491801,1.3500142 ]
+    },
+    "properties": {
+    "Date":"31 Jul",
+    "Time":"1945h - 2035h",
+    "Location":"West Mall (1 Bukit Batok Central Link)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8317785,1.4418783 ]
+    },
+    "properties": {
+    "Date":"31 Jul",
+    "Time":"1900h - 2100h",
+    "Location":"Holy Tree Sri Balasubramaniar Temple (10 Yishun Industrial Park A)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7249942,1.3500144 ]
+    },
+    "properties": {
+    "Date":"31 Jul",
+    "Time":"1620h - 1720h",
+    "Location":"Evolution Hub (492 Jurong West Street 41)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7491801,1.3500142 ]
+    },
+    "properties": {
+    "Date":"31 Jul",
+    "Time":"1150h - 1245h",
+    "Location":"West Mall (1 Bukit Batok Central Link)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.6784659,1.3269112 ]
+    },
+    "properties": {
+    "Date":"30 Jul",
+    "Time":"1940h - 2025h",
+    "Location":"FairPrice Hub (1 Joo Koon Circle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8529614,1.2776397 ]
+    },
+    "properties": {
+    "Date":"30 Jul",
+    "Time":"1820h - 1920h",
+    "Location":"The Heart, Marina One Show Gallery (5 Straits View)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8330524,1.303841 ]
+    },
+    "properties": {
+    "Date":"29 Jul",
+    "Time":"1900h - 2040h",
+    "Location":"Wisma Atria (435 Orchard Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.6976313,1.3488852 ]
+    },
+    "properties": {
+    "Date":"28 Jul",
+    "Time":"1200h - 1315h",
+    "Location":"Gek Poh Shopping Centre (762 Jurong West Street 75)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8528378,1.3176105 ]
+    },
+    "properties": {
+    "Date":"28 Jul",
+    "Time":"1200h - 1300h",
+    "Location":"NG AH SIO Bak Kut Teh (208 Rangoon Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8060273,1.2880072 ]
+    },
+    "properties": {
+    "Date":"28 Jul",
+    "Time":"1115h - 1215h",
+    "Location":"IKEA Alexandra (317 Alexandra Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7635192,1.3783857 ]
+    },
+    "properties": {
+    "Date":"27 Jul",
+    "Time":"1335h - 1435h",
+    "Location":"Bukit Panjang Integrated Transport Hub (15 Petir Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.739185,1.3780144 ]
+    },
+    "properties": {
+    "Date":"26 Jul",
+    "Time":"1430h - 1530h",
+    "Location":"Sunshine Place (475 Choa Chu Kang Avenue 3)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8555556,1.2988889 ]
+    },
+    "properties": {
+    "Date":"26 Jul",
+    "Time":"1250h - 1540h",
+    "Location":"Bugis Junction (200 Victoria Street)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8610638,1.3040344 ]
+    },
+    "properties": {
+    "Date":"25 Jul",
+    "Time":"2230h - 0030h",
+    "Location":"Al-Sahira Restaurant (200 Jalan Sultan)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8630306,1.3123049 ]
+    },
+    "properties": {
+    "Date":"25 Jul",
+    "Time":"1800h - 2000h",
+    "Location":"CT Hub (2 Kallang Avenue)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.95368,1.361342 ]
+    },
+    "properties": {
+    "Date":"25 Jul",
+    "Time":"1600h - 1735h",
+    "Location":"myCK (478 Tampines Street 44)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7635192,1.3783857 ]
+    },
+    "properties": {
+    "Date":"25 Jul",
+    "Time":"1335h - 1430h",
+    "Location":"Bukit Panjang Integrated Transport Hub (15 Petir Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.95368,1.361342 ]
+    },
+    "properties": {
+    "Date":"25 Jul",
+    "Time":"1255h - 1430h",
+    "Location":"myCK (478 Tampines Street 44)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7349356,1.3777887 ]
+    },
+    "properties": {
+    "Date":"25 Jul",
+    "Time":"1230h - 1400h",
+    "Location":"Ananas Cafe (10 Choa Chu Kang Avenue 4)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8364152,1.4279686 ]
+    },
+    "properties": {
+    "Date":"24 Jul",
+    "Time":"1930h - 2200h",
+    "Location":"Northpoint City (930 Yishun Avenue 2)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8465038,1.3270192 ]
+    },
+    "properties": {
+    "Date":"23 Jul",
+    "Time":"1730h - 2030h",
+    "Location":"Ramada by Wyndham Singapore at Zhongshan Park (16 Ah Hood Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7632971,1.3785171 ]
+    },
+    "properties": {
+    "Date":"22 Jul",
+    "Time":"1430h - 1540h",
+    "Location":"Hillion Mall (17 Petir Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7632971,1.3785171 ]
+    },
+    "properties": {
+    "Date":"22 Jul",
+    "Time":"1145h - 1220h",
+    "Location":"Hillion Mall (17 Petir Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8465038,1.3270192 ]
+    },
+    "properties": {
+    "Date":"21 Jul",
+    "Time":"1730h - 2030h",
+    "Location":"Ramada by Wyndham Singapore at Zhongshan Park (16 Ah Hood Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8500832,1.291321 ]
+    },
+    "properties": {
+    "Date":"21 Jul",
+    "Time":"1510h - 1610h",
+    "Location":"Funan Mall (107 North Bridge Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8534331,1.2937585 ]
+    },
+    "properties": {
+    "Date":"21 Jul",
+    "Time":"1500h - 1550h",
+    "Location":"Raffles City Shopping Centre (252 North Bridge Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8502485,1.3063133 ]
+    },
+    "properties": {
+    "Date":"20 Jul",
+    "Time":"1830h - 1910h",
+    "Location":"Tekka Centre (665 Buffalo Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8465038,1.3270192 ]
+    },
+    "properties": {
+    "Date":"20 Jul",
+    "Time":"1720h - 2005h",
+    "Location":"Ramada by Wyndham Singapore at Zhongshan Park (16 Ah Hood Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8795728,1.3125617 ]
+    },
+    "properties": {
+    "Date":"20 Jul",
+    "Time":"1200h - 1300h",
+    "Location":"B&S Mini Mart Pte Ltd (310 Geylang Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9883728,1.3893094 ]
+    },
+    "properties": {
+    "Date":"20 Jul",
+    "Time":"1130h - 1230h",
+    "Location":"Changi Village Hawker Centre (2 Changi Village Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8728714,1.3032243 ]
+    },
+    "properties": {
+    "Date":"19 Jul",
+    "Time":"1230h - 1530h",
+    "Location":"Kallang Wave Mall (1 Stadium Place)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8389111,1.3009584 ]
+    },
+    "properties": {
+    "Date":"19 Jul",
+    "Time":"0945h - 1130h",
+    "Location":"orchardgateway (277 Orchard Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8409184,1.4242354 ]
+    },
+    "properties": {
+    "Date":"18 Jul",
+    "Time":"1900h - 2015h",
+    "Location":"SAFRA Yishun (60 Yishun Avenue 4)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8542708,1.2997944 ]
+    },
+    "properties": {
+    "Date":"17 Jul",
+    "Time":"2140h - 0000h",
+    "Location":"FilmGarde Bugis+ (201 Victoria Street)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8488389,1.283806 ]
+    },
+    "properties": {
+    "Date":"17 Jul",
+    "Time":"1930h - 2115h",
+    "Location":"LECOQ (25 Church Street)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.873123,1.3914626 ]
+    },
+    "properties": {
+    "Date":"17 Jul",
+    "Time":"1700h - 1830h",
+    "Location":"ActiveSG Gym at Fernvale Square (51A Sengkang West\nAvenue)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8988707,1.315681 ]
+    },
+    "properties": {
+    "Date":"17 Jul",
+    "Time":"1540h - 1710h",
+    "Location":"Joo Chiat Complex (1 Joo Chiat Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9883728,1.3893094 ]
+    },
+    "properties": {
+    "Date":"17 Jul",
+    "Time":"0955h - 1025h",
+    "Location":"Changi Village Hawker Centre (2 Changi Village Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9362665,1.3797981 ]
+    },
+    "properties": {
+    "Date":"17 Jul",
+    "Time":"0950h - 1020h",
+    "Location":"Pasir Ris West Plaza (735 Pasir Ris Street 72)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8215873,1.4443567 ]
+    },
+    "properties": {
+    "Date":"16 Jul",
+    "Time":"2245h - 0030h",
+    "Location":"313 KPT Pte Ltd (313A Sembawang Drive)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8745506,1.3115711 ]
+    },
+    "properties": {
+    "Date":"16 Jul",
+    "Time":"1805h - 1940h",
+    "Location":"G7 Sinma Live Seafood Restaurant (163 Geylang Road Lorong 3)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.873123,1.3914626 ]
+    },
+    "properties": {
+    "Date":"16 Jul",
+    "Time":"1700h - 1830h",
+    "Location":"ActiveSG Gym at Fernvale Square (51A Sengkang West\nAve)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8729027,1.3963284 ]
+    },
+    "properties": {
+    "Date":"15 Jul",
+    "Time":"2230h - 0000h",
+    "Location":"Thasevi Food (239 Jalan Kayu)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8222071,1.2644032 ]
+    },
+    "properties": {
+    "Date":"15 Jul",
+    "Time":"1610h - 1850h",
+    "Location":"VivoCity (1 HarbourFront Walk)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.819335,1.2664653 ]
+    },
+    "properties": {
+    "Date":"15 Jul",
+    "Time":"1400h - 1530h",
+    "Location":"Seah Im Food Centre (2 Seah Im Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7449142,1.3851169 ]
+    },
+    "properties": {
+    "Date":"15 Jul",
+    "Time":"1200h - 1240h",
+    "Location":"Lot One Shoppers’ Mall (21 Choa Chu Kang Avenue 4)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.873123,1.3914626 ]
+    },
+    "properties": {
+    "Date":"14 Jul",
+    "Time":"2105h - 2225h",
+    "Location":"ActiveSG Gym at Fernvale Square (51A Sengkang West\nAvenue)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8287353,1.4515741 ]
+    },
+    "properties": {
+    "Date":"14 Jul",
+    "Time":"1945h - 2020h",
+    "Location":"Sembawang Community Club (2125 Sembawang Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7426077,1.3345013 ]
+    },
+    "properties": {
+    "Date":"14 Jul",
+    "Time":"1935h - 2005h",
+    "Location":"Westgate (3 Gateway Drive)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8759902,1.3508475 ]
+    },
+    "properties": {
+    "Date":"14 Jul",
+    "Time":"1930h - 2130h",
+    "Location":"Food Park – Lor Lew Lian (2 Lorong Lew Lian)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7432656,1.3328303 ]
+    },
+    "properties": {
+    "Date":"14 Jul",
+    "Time":"1600h - 1930h",
+    "Location":"JEM (50 Jurong Gateway Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.822894,1.2647884 ]
+    },
+    "properties": {
+    "Date":"14 Jul",
+    "Time":"1600h - 1655h",
+    "Location":"VivoCity (1 HarbourFront Walk)\nFairPrice Xtra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9021738,1.40669 ]
+    },
+    "properties": {
+    "Date":"14 Jul",
+    "Time":"1520h - 1930h",
+    "Location":"Waterway Point (83 Punggol Central)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8492038,1.281688 ]
+    },
+    "properties": {
+    "Date":"14 Jul",
+    "Time":"1330h - 1400h",
+    "Location":"Market Street Interim Hawker Centre (5 Cross Street)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7397319,1.3338318 ]
+    },
+    "properties": {
+    "Date":"14 Jul",
+    "Time":"1330h - 1400h",
+    "Location":"FairPrice Jurong Gateway Road (135 Jurong Gateway Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.703593,1.3491797 ]
+    },
+    "properties": {
+    "Date":"14 Jul",
+    "Time":"1140h - 1220h",
+    "Location":"Sheng Siong Supermarket (7 Jurong West Avenue 5)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7391017,1.335 ]
+    },
+    "properties": {
+    "Date":"14 Jul",
+    "Time":"1005h - 1120h",
+    "Location":"ICBC Jurong East Sub-Branch (130 Jurong Gateway Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7426077,1.3345013 ]
+    },
+    "properties": {
+    "Date":"14 Jul",
+    "Time":"1000h - 1200h",
+    "Location":"Westgate (3 Gateway Drive)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8542474,1.3012337 ]
+    },
+    "properties": {
+    "Date":"14 Jul",
+    "Time":"1000h - 1040h",
+    "Location":"Albert Centre (270 Queen Street)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8987547,1.3154974 ]
+    },
+    "properties": {
+    "Date":"13 Jul",
+    "Time":"1935h - 2040h",
+    "Location":"FairPrice Joo Chiat Complex (2 Joo Chiat Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.827346,1.2864244 ]
+    },
+    "properties": {
+    "Date":"13 Jul",
+    "Time":"1740h - 1825h",
+    "Location":"Tiong Bahru Plaza (298 Tiong Bahru Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7915907,1.3059208 ]
+    },
+    "properties": {
+    "Date":"13 Jul",
+    "Time":"1230h - 1300h",
+    "Location":"The Metropolis (9 North Buona Vista Drive)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8583026,1.29503 ]
+    },
+    "properties": {
+    "Date":"12 Jul",
+    "Time":"2010h - 2140h",
+    "Location":"Suntec City (3 Temasek Boulevard)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8651169,1.3026966 ]
+    },
+    "properties": {
+    "Date":"12 Jul",
+    "Time":"1915h - 2055h",
+    "Location":"Golden Mile Complex (5001 Beach Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8203643,1.255992 ]
+    },
+    "properties": {
+    "Date":"12 Jul",
+    "Time":"1830h - 1930h",
+    "Location":"Resorts World Sentosa Casino (8 Sentosa Gateway)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8745506,1.3115711 ]
+    },
+    "properties": {
+    "Date":"12 Jul",
+    "Time":"1740h - 1815h",
+    "Location":"G7 Sinma Live Seafood Restaurant (163 Geylang Road Lorong 3)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8370131,1.2902501 ]
+    },
+    "properties": {
+    "Date":"12 Jul",
+    "Time":"1300h - 1700h",
+    "Location":"Bar Bar Black Sheep (86 Robertson Quay)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7642339,1.3800396 ]
+    },
+    "properties": {
+    "Date":"12 Jul",
+    "Time":"1120h - 1220h",
+    "Location":"Bukit Panjang Plaza (1 Jelebu Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7491801,1.3500142 ]
+    },
+    "properties": {
+    "Date":"11 Jul",
+    "Time":"1625h - 1700h",
+    "Location":"West Mall (1 Bukit Batok Central Link)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8542191,1.2995955 ]
+    },
+    "properties": {
+    "Date":"11 Jul",
+    "Time":"1310h - 1340h",
+    "Location":"Bugis+ (201 Victoria Street)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8943833,1.3190065 ]
+    },
+    "properties": {
+    "Date":"11 Jul",
+    "Time":"1000h - 1100h",
+    "Location":"SingPost Centre (10 Eunos Road 8)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7439191,1.3472414 ]
+    },
+    "properties": {
+    "Date":"11 Jul",
+    "Time":"0645h - 0715h",
+    "Location":"Sheng Siong Supermarket (154A Bukit Batok West Avenue 8)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9479517,1.3312882 ]
+    },
+    "properties": {
+    "Date":"10 Jul",
+    "Time":"2115h - 2200h",
+    "Location":"Spize Bedok (336 Bedok Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8555583,1.3097877 ]
+    },
+    "properties": {
+    "Date":"10 Jul",
+    "Time":"1945h - 2040h",
+    "Location":"Mustafa Centre (145 Syed Alwi Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.943472,1.3525992 ]
+    },
+    "properties": {
+    "Date":"10 Jul",
+    "Time":"1810h - 1850h",
+    "Location":"Century Square (2 Tampines Central 5)\nNakhon Kitchen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8363884,1.3028881 ]
+    },
+    "properties": {
+    "Date":"10 Jul",
+    "Time":"1550h - 1620h",
+    "Location":"Apple Orchard Road (270 Orchard Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8364152,1.4279686 ]
+    },
+    "properties": {
+    "Date":"10 Jul",
+    "Time":"1255h - 1400h",
+    "Location":"Northpoint City (930 Yishun Avenue 2)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8228497,1.4502688 ]
+    },
+    "properties": {
+    "Date":"10 Jul",
+    "Time":"1250h - 1330h",
+    "Location":"HAO Mart (505 Canberra Link)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7208215,1.3347767 ]
+    },
+    "properties": {
+    "Date":"10 Jul",
+    "Time":"1250h - 1330h",
+    "Location":"Taman Jurong Shopping Centre (399 Yung Sheng Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8989838,1.3155972 ]
+    },
+    "properties": {
+    "Date":"10 Jul",
+    "Time":"1200h - 1500h",
+    "Location":"The Panggung@Aroma Kampung Restaurant (2 Joo Chiat Complex)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9355585,1.320499 ]
+    },
+    "properties": {
+    "Date":"10 Jul",
+    "Time":"1200h - 1230h",
+    "Location":"Block 16 Bedok South Market & Food Centre (16 Bedok South Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7439191,1.3472414 ]
+    },
+    "properties": {
+    "Date":"10 Jul",
+    "Time":"0620h - 0650h",
+    "Location":"Sheng Siong Supermarket (154A Bukit Batok West Avenue 8)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8364152,1.4279686 ]
+    },
+    "properties": {
+    "Date":"9 Jul",
+    "Time":"1930h - 2150h",
+    "Location":"Northpoint City (930 Yishun Avenue 2)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8492665,1.3380293 ]
+    },
+    "properties": {
+    "Date":"9 Jul",
+    "Time":"1630h - 1730h",
+    "Location":"Relax & Comfort Reflexology Therapy (92 Lorong 4 Toa Payoh)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9324355,1.3249396 ]
+    },
+    "properties": {
+    "Date":"9 Jul",
+    "Time":"1600h - 1715h",
+    "Location":"Bedok Point (799 New Upper Changi Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9118835,1.3090709 ]
+    },
+    "properties": {
+    "Date":"9 Jul",
+    "Time":"1600h - 1630h",
+    "Location":"Alsalam Restaurant (427 East Coast Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7468395,1.3348154 ]
+    },
+    "properties": {
+    "Date":"9 Jul",
+    "Time":"1500h - 1910h",
+    "Location":"IMM (2 Jurong East Street 21)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8222071,1.2644032 ]
+    },
+    "properties": {
+    "Date":"9 Jul",
+    "Time":"1310h - 1400h",
+    "Location":"VivoCity (1 HabourFront Walk)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8329225,1.3047955 ]
+    },
+    "properties": {
+    "Date":"9 Jul",
+    "Time":"1125h - 1200h",
+    "Location":"Tang Plaza (310 Orchard Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8728714,1.3032243 ]
+    },
+    "properties": {
+    "Date":"7 Jul",
+    "Time":"1725h - 1800h",
+    "Location":"Kallang Wave Mall (1 Stadium Place)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8858445,1.3082405 ]
+    },
+    "properties": {
+    "Date":"7 Jul",
+    "Time":"1120h - 1200h",
+    "Location":"Old Airport Road Food Centre & Shopping Mall (51 Old Airport Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8728714,1.3032243 ]
+    },
+    "properties": {
+    "Date":"6 Jul",
+    "Time":"1725h - 1800h",
+    "Location":"Kallang Wave Mall (1 Stadium Place)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8728714,1.3032243 ]
+    },
+    "properties": {
+    "Date":"6 Jul",
+    "Time":"1230h - 1300h",
+    "Location":"Kallang Wave Mall (1 Stadium Place)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8414578,1.2806857 ]
+    },
+    "properties": {
+    "Date":"5 Jul",
+    "Time":"2020h - 2130h",
+    "Location":"The Guild (55 Keong Saik Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8728714,1.3032243 ]
+    },
+    "properties": {
+    "Date":"5 Jul",
+    "Time":"1725h - 1800h",
+    "Location":"Kallang Wave Mall (1 Stadium Place)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8425582,1.2852104 ]
+    },
+    "properties": {
+    "Date":"5 Jul",
+    "Time":"1145h - 1220h",
+    "Location":"People’s Park Food Centre (32 New Market Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.793977,1.4523435 ]
+    },
+    "properties": {
+    "Date":"5 Jul",
+    "Time":"0755h - 1015h",
+    "Location":"Singapore Safety Driving Centre (2 Woodlands Industrial Park E4)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7432656,1.3328303 ]
+    },
+    "properties": {
+    "Date":"5 Jul",
+    "Time":"1115h - 1245h",
+    "Location":"JEM (50 Jurong Gateway Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8330524,1.303841 ]
+    },
+    "properties": {
+    "Date":"4 Jul",
+    "Time":"2120h - 2205h",
+    "Location":"Wisma Atria (435 Orchard Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.6784659,1.3269112 ]
+    },
+    "properties": {
+    "Date":"4 Jul",
+    "Time":"1915h - 2015h",
+    "Location":"FairPrice Hub (1 Joo Koon Circle)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8529208,1.3030433 ]
+    },
+    "properties": {
+    "Date":"4 Jul",
+    "Time":"1750h - 1820h",
+    "Location":"Sim Lim Square (1 Rochor Canal Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9349594,1.3069299 ]
+    },
+    "properties": {
+    "Date":"4 Jul",
+    "Time":"1730h - 2000h",
+    "Location":"East Coast Lagoon Food Village (1220 East Coast Parkway)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8728714,1.3032243 ]
+    },
+    "properties": {
+    "Date":"4 Jul",
+    "Time":"1725h - 1800h",
+    "Location":"Kallang Wave Mall (1 Stadium Place)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8452356,1.3005317 ]
+    },
+    "properties": {
+    "Date":"4 Jul",
+    "Time":"1705h - 1945h",
+    "Location":"Plaza Singapura (68 Orchard Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7067297,1.3397443 ]
+    },
+    "properties": {
+    "Date":"4 Jul",
+    "Time":"1500h - 1540h",
+    "Location":"Jurong Point (1 Jurong West Central 2)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8329225,1.3047955 ]
+    },
+    "properties": {
+    "Date":"4 Jul",
+    "Time":"1405h - 1525h",
+    "Location":"Tang Plaza (310 Orchard Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8500832,1.291321 ]
+    },
+    "properties": {
+    "Date":"4 Jul",
+    "Time":"1206h - 1300h",
+    "Location":"Funan Mall (107 North Bridge Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8339449,1.3045456 ]
+    },
+    "properties": {
+    "Date":"4 Jul",
+    "Time":"1200h - 1255h",
+    "Location":"Lucky Plaza (304 Orchard Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8858445,1.3082405 ]
+    },
+    "properties": {
+    "Date":"4 Jul",
+    "Time":"1120h - 1200h",
+    "Location":"Old Airport Road Food Centre & Shopping Mall (51 Old Airport Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7067297,1.3397443 ]
+    },
+    "properties": {
+    "Date":"4 Jul",
+    "Time":"1100h - 1130h",
+    "Location":"Jurong Point (1 Jurong West Central 2)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.703593,1.3491797 ]
+    },
+    "properties": {
+    "Date":"3 Jul",
+    "Time":"2300h - 2330h",
+    "Location":"Sheng Siong Supermarket (7 Jurong West Avenue 5)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8711747,1.2805282 ]
+    },
+    "properties": {
+    "Date":"3 Jul",
+    "Time":"2200h - 2245h",
+    "Location":"Marina Barrage (8 Marina Gardens Drive)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7432656,1.3328303 ]
+    },
+    "properties": {
+    "Date":"3 Jul",
+    "Time":"2030h - 2150h",
+    "Location":"JEM (50 Jurong Gateway Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7468395,1.3348154 ]
+    },
+    "properties": {
+    "Date":"3 Jul",
+    "Time":"1920h - 2220h",
+    "Location":"IMM (2 Jurong East Street 21)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8728714,1.3032243 ]
+    },
+    "properties": {
+    "Date":"3 Jul",
+    "Time":"1726h - 1800h",
+    "Location":"Kallang Wave Mall (1 Stadium Place)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.69253,1.3419403 ]
+    },
+    "properties": {
+    "Date":"1 Jul",
+    "Time":"1830h - 1930h",
+    "Location":"NTI Food Court (964 Jurong West Street 91)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8260922,1.4269313 ]
+    },
+    "properties": {
+    "Date":"1 Jul",
+    "Time":"1600h - 1640h",
+    "Location":"The Daily Scoop (369 Sembawang Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7067297,1.3397443 ]
+    },
+    "properties": {
+    "Date":"1 Jul",
+    "Time":"1410h - 1440h",
+    "Location":"Jurong Point (1 Jurong West Central 2)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8542474,1.3012337 ]
+    },
+    "properties": {
+    "Date":"1 Jul",
+    "Time":"1215h - 1315h",
+    "Location":"Albert Centre Market and Food Centre (270 Queen Street)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.6971534,1.337124 ]
+    },
+    "properties": {
+    "Date":"1 Jul",
+    "Time":"0950h - 1045h",
+    "Location":"Jurong West 651 Food House Pte Ltd (651 Jurong West Street 61)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8319293,1.2936417 ]
+    },
+    "properties": {
+    "Date":"30 Jun",
+    "Time":"1935h - 2115h",
+    "Location":"Great World City (1 Kim Seng Promenade)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7468395,1.3348154 ]
+    },
+    "properties": {
+    "Date":"30 Jun",
+    "Time":"1400h - 1430h",
+    "Location":"IMM (2 Jurong East Street 21)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7522901,1.3814931 ]
+    },
+    "properties": {
+    "Date":"30 Jun",
+    "Time":"1110h - 1145h",
+    "Location":"Fu Chan Coffee Shop (Block 145 Teck Whye Avenue)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8322914,1.3039721 ]
+    },
+    "properties": {
+    "Date":"29 Jun",
+    "Time":"1200h - 1240h",
+    "Location":"ION Orchard (2 Orchard Turn)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9600116,1.3544642 ]
+    },
+    "properties": {
+    "Date":"28 Jun",
+    "Time":"2010h - 2110h",
+    "Location":"Tampines Mart (5 Tampines Street 32)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9037033,1.3211925 ]
+    },
+    "properties": {
+    "Date":"28 Jun",
+    "Time":"1950h - 2020h",
+    "Location":"NTUC FairPrice (5 Eunos Crescent)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.86343,1.320541 ]
+    },
+    "properties": {
+    "Date":"28 Jun",
+    "Time":"1940h - 2045h",
+    "Location":"Cheng Hoo Thian Restaurant OSL (34 Whampoa West)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7768783,1.4434601 ]
+    },
+    "properties": {
+    "Date":"28 Jun",
+    "Time":"1730h - 1830h",
+    "Location":"Marsiling Lane Market & Cooked Food Centre (20 Marsiling Lane)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7067297,1.3397443 ]
+    },
+    "properties": {
+    "Date":"28 Jun",
+    "Time":"1520h - 1650h",
+    "Location":"Jurong Point (1 Jurong West Central 2)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9447179,1.3524936 ]
+    },
+    "properties": {
+    "Date":"28 Jun",
+    "Time":"1440h - 1630h",
+    "Location":"Tampines Mall (4 Tampines Central 5)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8346813,1.3525486 ]
+    },
+    "properties": {
+    "Date":"28 Jun",
+    "Time":"1400h - 1445h",
+    "Location":"One Man Coffee (215R Upper Thomson Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8343796,1.3536313 ]
+    },
+    "properties": {
+    "Date":"28 Jun",
+    "Time":"1330h - 1400h",
+    "Location":"Ming Fa (246B Upper Thomson Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7251637,1.3257358 ]
+    },
+    "properties": {
+    "Date":"28 Jun",
+    "Time":"1315h - 1345h",
+    "Location":"Sheng Siong Supermarket (3 Yuan Ching Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8364152,1.4279686 ]
+    },
+    "properties": {
+    "Date":"28 Jun",
+    "Time":"1320h - 1755h",
+    "Location":"Northpoint City (930 Yishun Avenue 2)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7768783,1.4434601 ]
+    },
+    "properties": {
+    "Date":"28 Jun",
+    "Time":"1200h - 1300h",
+    "Location":"Marsiling Lane Market & Cooked Food Centre (20 Marsiling Lane)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8925563,1.3191725 ]
+    },
+    "properties": {
+    "Date":"28 Jun",
+    "Time":"1050h - 1130h",
+    "Location":"Paya Lebar Square (60 Paya Lebar Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8339449,1.3045456 ]
+    },
+    "properties": {
+    "Date":"28 Jun",
+    "Time":"1040h - 1130h",
+    "Location":"Lucky Plaza (304 Orchard Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9387417,1.3320037 ]
+    },
+    "properties": {
+    "Date":"28 Jun",
+    "Time":"0830h - 0900h",
+    "Location":"Fengshan Market & Food Centre (85 Bedok North Street 4)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8458009,1.383662 ]
+    },
+    "properties": {
+    "Date":"27 Jun",
+    "Time":"2050h - 2210h",
+    "Location":"Yio Chu Kang Sports Hall (214 Ang Mo Kio Avenue 9)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.825198,1.279965 ]
+    },
+    "properties": {
+    "Date":"27 Jun",
+    "Time":"1400h - 1445h",
+    "Location":"Ban Kah Hiang Trading (107 Jalan Bukit Merah)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7001843,1.3397004 ]
+    },
+    "properties": {
+    "Date":"27 Jun",
+    "Time":"1300h - 1345h",
+    "Location":"Huangs 601A (601A Jurong West Street 62)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8125315,1.4624441 ]
+    },
+    "properties": {
+    "Date":"27 Jun",
+    "Time":"1130h - 1230h",
+    "Location":"Northlink Building (10 Admiralty Street)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9531054,1.3531158 ]
+    },
+    "properties": {
+    "Date":"27 Jun",
+    "Time":"0900h - 0930h",
+    "Location":"One Supermarket (201B Tampines Street 21)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8495592,1.3494931 ]
+    },
+    "properties": {
+    "Date":"26 Jun",
+    "Time":"2315h - 2355h",
+    "Location":"Wang Sheng Li Durian Station (513 Bishan Street 13)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7468395,1.3348154 ]
+    },
+    "properties": {
+    "Date":"26 Jun",
+    "Time":"2010h - 2250h",
+    "Location":"IMM (2 Jurong East Street 21)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9009295,1.3345125 ]
+    },
+    "properties": {
+    "Date":"26 Jun",
+    "Time":"1415h - 1500h",
+    "Location":"Eunos Technolink Food Loft (11 Kaki Bukit Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.691631,1.3420158 ]
+    },
+    "properties": {
+    "Date":"26 Jun",
+    "Time":"1300h - 1400h",
+    "Location":"Prime Supermarket (962 Jurong West Street 91)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8529208,1.3030433 ]
+    },
+    "properties": {
+    "Date":"26 Jun",
+    "Time":"1240h - 1600h",
+    "Location":"Sim Lim Square (1 Rochor Canal Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7491801,1.3500142 ]
+    },
+    "properties": {
+    "Date":"26 Jun",
+    "Time":"1240h - 1310h",
+    "Location":"West Mall (1 Bukit Batok Central Link)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.6920843,1.3413363 ]
+    },
+    "properties": {
+    "Date":"26 Jun",
+    "Time":"1230h - 1300h",
+    "Location":"Amman Household Supplies Pte Ltd (961 Jurong West Street 92)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.945942,1.356115 ]
+    },
+    "properties": {
+    "Date":"26 Jun",
+    "Time":"1130h - 1200h",
+    "Location":"Sheng Siong Supermarket (506 Tampines Central 1)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.851727,1.3061316 ]
+    },
+    "properties": {
+    "Date":"26 Jun",
+    "Time":"1125h - 1220h",
+    "Location":"Haniffa Textiles (60 Serangoon Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8555583,1.3097877 ]
+    },
+    "properties": {
+    "Date":"26 Jun",
+    "Time":"1045h - 1125h",
+    "Location":"Mustafa Centre (145 Syed Alwi Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7777621,1.4383169 ]
+    },
+    "properties": {
+    "Date":"25 Jun",
+    "Time":"2000h - 2300h",
+    "Location":"Al-Iman Restaurant Pte Ltd (136 Marsiling Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9623868,1.334638 ]
+    },
+    "properties": {
+    "Date":"25 Jun",
+    "Time":"2000h - 2100h",
+    "Location":"Changi City Point (5 Changi Business Park Central 1)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8364152,1.4279686 ]
+    },
+    "properties": {
+    "Date":"25 Jun",
+    "Time":"1950h - 2020h",
+    "Location":"Northpoint City (930 Yishun Avenue 2)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.84423,1.277896 ]
+    },
+    "properties": {
+    "Date":"25 Jun",
+    "Time":"1830h - 1925h",
+    "Location":"Sushi Mitsuya (60 Tras Street)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9600116,1.3544642 ]
+    },
+    "properties": {
+    "Date":"25 Jun",
+    "Time":"1400h - 1500h",
+    "Location":"Tampines Mart (5 Tampines Street 32)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8575602,1.3073566 ]
+    },
+    "properties": {
+    "Date":"24 Jun",
+    "Time":"2145h - 2230h ",
+    "Location":"New World Centre (1 Jalan Berseh)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8555583,1.3097877 ]
+    },
+    "properties": {
+    "Date":"24 Jun",
+    "Time":"1955h - 2040h",
+    "Location":"Mustafa Centre (145 Syed Alwi Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8422545,1.2861551 ]
+    },
+    "properties": {
+    "Date":"24 Jun",
+    "Time":"1610h - 1910h",
+    "Location":"Pearl’s Hill 34 (34 Upper Cross Street)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8440022,1.2857964 ]
+    },
+    "properties": {
+    "Date":"24 Jun",
+    "Time":"1355h - 1545h",
+    "Location":"People’s Park Centre (101 Upper Cross Street)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8440022,1.2857964 ]
+    },
+    "properties": {
+    "Date":"24 Jun",
+    "Time":"1230h - 1335h",
+    "Location":"People’s Park Centre (101 Upper Cross Street)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7468395,1.3348154 ]
+    },
+    "properties": {
+    "Date":"24 Jun",
+    "Time":"1220h - 1420h",
+    "Location":"IMM (2 Jurong East Street 21)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8500832,1.291321 ]
+    },
+    "properties": {
+    "Date":"24 Jun",
+    "Time":"1015h - 1120h",
+    "Location":"Funan Mall (107 North Bridge Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7311151,1.3451628 ]
+    },
+    "properties": {
+    "Date":"24 Jun",
+    "Time":"0945h - 1145h",
+    "Location":"Yuhua Market & Hawker Centre (347 Jurong East Avenue 1)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7256656,1.3297431 ]
+    },
+    "properties": {
+    "Date":"24 Jun",
+    "Time":"0910h - 1040h",
+    "Location":"Jurong Lake Gardens Gym ActiveSG (30 Yuan Ching Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8422639,1.2723 ]
+    },
+    "properties": {
+    "Date":"24 Jun",
+    "Time":"0715h - 0745h",
+    "Location":"Outram Park Ya Hua Rou Gu Cha (7 Keppel Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8422545,1.2861551 ]
+    },
+    "properties": {
+    "Date":"23 Jun",
+    "Time":"1945h - 2210h",
+    "Location":"Pearl’s Hill 34 (34 Upper Cross Street)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8728714,1.3032243 ]
+    },
+    "properties": {
+    "Date":"23 Jun",
+    "Time":"1835h - 1935h",
+    "Location":"Kallang Wave Mall (1 Stadium Place)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8555556,1.2988889 ]
+    },
+    "properties": {
+    "Date":"23 Jun",
+    "Time":"1310h - 1430h",
+    "Location":"Bugis Junction (200 Victoria Street)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8500517,1.291884 ]
+    },
+    "properties": {
+    "Date":"22 Jun",
+    "Time":"1740h - 1815h",
+    "Location":"Peninsula Shopping Centre (3 Coleman St)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.838361,1.300898 ]
+    },
+    "properties": {
+    "Date":"22 Jun",
+    "Time":"1525h - 1730h",
+    "Location":"313@somerset (313 Orchard Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8339449,1.3045456 ]
+    },
+    "properties": {
+    "Date":"22 Jun",
+    "Time":"1430h - 1500h",
+    "Location":"Lucky Plaza (304 Orchard Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.729109,1.346998 ]
+    },
+    "properties": {
+    "Date":"22 Jun",
+    "Time":"0900h - 1100h",
+    "Location":"Jurong East Sports Centre (21 Jurong East Street 31)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8222071,1.2644032 ]
+    },
+    "properties": {
+    "Date":"21 Jun",
+    "Time":"2015h - 2115h",
+    "Location":"Vivocity (1 Harborfront Walk)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.819335,1.2664653 ]
+    },
+    "properties": {
+    "Date":"21 Jun",
+    "Time":"1900h - 2000h",
+    "Location":"Seah Im Food Centre (2 Seah Im Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8036027,1.2877846 ]
+    },
+    "properties": {
+    "Date":"21 Jun",
+    "Time":"1645h - 1815h",
+    "Location":"Queensway Shopping Centre (1 Queensway)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.817528,1.277148 ]
+    },
+    "properties": {
+    "Date":"20 Jun",
+    "Time":"1900h - 2000h",
+    "Location":"SAFRA Mount Faber (2 Telok Blangah Way)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8364152,1.4279686 ]
+    },
+    "properties": {
+    "Date":"19 Jun",
+    "Time":"2005h - 2140h",
+    "Location":"Northpoint City (930 Yishun Avenue 2)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8719,1.375515 ]
+    },
+    "properties": {
+    "Date":"19 Jun",
+    "Time":"1715h - 1805h",
+    "Location":"Sheng Siong Supermarket (19 Serangoon North Avenue 5)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8851289,1.359469 ]
+    },
+    "properties": {
+    "Date":"18 Jun",
+    "Time":"1130h - 1215h",
+    "Location":"Heartland Mall (Hougang Street 21)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8526302,1.3058649 ]
+    },
+    "properties": {
+    "Date":"16 Jun",
+    "Time":"1630h - 1705h",
+    "Location":"Haniffa Pte Ltd (118 Dunlop Street)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8724461,1.3922125 ]
+    },
+    "properties": {
+    "Date":"15 Jun",
+    "Time":"1825h - 2055h",
+    "Location":"NTUC FairPrice (447A Jalan Kayu)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8719,1.375515 ]
+    },
+    "properties": {
+    "Date":"15 Jun",
+    "Time":"1715h - 1805h",
+    "Location":"Sheng Siong Supermarket (19 Serangoon North Avenue 5)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8606263,1.3080409 ]
+    },
+    "properties": {
+    "Date":"14 Jun",
+    "Time":"2000h - 2100h",
+    "Location":"Prime Supermarket (803 King George’s Avenue)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8575602,1.3073566 ]
+    },
+    "properties": {
+    "Date":"14 Jun",
+    "Time":"1730h - 1800h",
+    "Location":"New World Centre (1 Jalan Berseh) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.854268,1.309576 ]
+    },
+    "properties": {
+    "Date":"11 Jun",
+    "Time":"2000h - 2040h",
+    "Location":"SF Chandpur Minimart Pte Ltd (6 Desker Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8558916,1.3092818 ]
+    },
+    "properties": {
+    "Date":"11 Jun",
+    "Time":"1730h - 1800h",
+    "Location":"Sri Murugan Trading Pte Ltd (86 Syed Alwi Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8555583,1.3097877 ]
+    },
+    "properties": {
+    "Date":"10 Jun",
+    "Time":"2050h - 2145h",
+    "Location":"Mustafa Centre (145 Syed Alwi Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7125352,1.3463986 ]
+    },
+    "properties": {
+    "Date":"10 Jun",
+    "Time":"1100h - 1130h",
+    "Location":"Boon Lay Shopping Centre (221 Boon Lay Place)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8142183,1.2864983 ]
+    },
+    "properties": {
+    "Date":"9 Jun",
+    "Time":"2015h - 2045h",
+    "Location":"NTUC FairPrice (20 Lengkok Bahru)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8555583,1.3097877 ]
+    },
+    "properties": {
+    "Date":"9 Jun",
+    "Time":"1950h - 2035h",
+    "Location":"Mustafa Centre (145 Syed Alwi Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.703593,1.3491797 ]
+    },
+    "properties": {
+    "Date":"9 Jun",
+    "Time":"0750h - 0820h",
+    "Location":"Sheng Siong Supermarket (7 Jurong West Avenue 5)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8786306,1.312575 ]
+    },
+    "properties": {
+    "Date":"8 Jun",
+    "Time":"1855h - 1925h",
+    "Location":"Sheng Siong Supermarket (301 Geylang Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9021738,1.40669 ]
+    },
+    "properties": {
+    "Date":"8 Jun",
+    "Time":"1550h - 1700h",
+    "Location":"Waterway Point (83 Punggol Central)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7778664,1.443392 ]
+    },
+    "properties": {
+    "Date":"8 Jun",
+    "Time":"1330h - 1405h",
+    "Location":"18 Marsiling Lane "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9065646,1.3373931 ]
+    },
+    "properties": {
+    "Date":"8 Jun",
+    "Time":"0910h - 0945h",
+    "Location":"Kaki Bukit Recreation Centre (7 Kaki Bukit Ave 3)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.6974182,1.3421413 ]
+    },
+    "properties": {
+    "Date":"8 Jun",
+    "Time":"0900h - 1015h",
+    "Location":"Pioneer Mall (638 Jurong West Street 61)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7432656,1.3328303 ]
+    },
+    "properties": {
+    "Date":"6 Jun",
+    "Time":"1500h - 1600h",
+    "Location":"JEM (50 Jurong Gateway Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8178171,1.262048 ]
+    },
+    "properties": {
+    "Date":"6 Jun",
+    "Time":"1410h - 1520h",
+    "Location":"Harbourfront Centre (1 Maritime Square)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8555583,1.3097877 ]
+    },
+    "properties": {
+    "Date":"4 Jun",
+    "Time":"1500h - 1600h ",
+    "Location":"Mustafa Centre (145 Syed Alwi Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8575602,1.3073566 ]
+    },
+    "properties": {
+    "Date":"4 Jun",
+    "Time":"0820h - 0900h",
+    "Location":"New World Centre (1 Jalan Berseh)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8681859,1.3312349 ]
+    },
+    "properties": {
+    "Date":"4 Jun",
+    "Time":"0800h - 0830h",
+    "Location":"The Poiz Centre (51 Upper Serangoon Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8981808,1.3166568 ]
+    },
+    "properties": {
+    "Date":"4 Jun",
+    "Time":"0730h - 0800h",
+    "Location":"Geylang Serai Market (1 Geylang Serai)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7468395,1.3348154 ]
+    },
+    "properties": {
+    "Date":"3 Jun",
+    "Time":"1900h - 2100h",
+    "Location":"IMM (2 Jurong East Street 21)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7640272,1.3146904 ]
+    },
+    "properties": {
+    "Date":"2 Jun",
+    "Time":"1700h - 1730h",
+    "Location":"The Clementi Mall (3155 Commonwealth Avenue West)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9447179,1.3524936 ]
+    },
+    "properties": {
+    "Date":"2 Jun",
+    "Time":"1445h - 1525h",
+    "Location":"Tampines Mall (4 Tampines Central 5)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7980556,1.4455556 ]
+    },
+    "properties": {
+    "Date":"30 May",
+    "Time":"2230h - 2300h",
+    "Location":"Woodlands Mart (768 Woodlands Avenue 6)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8046249,1.4395122 ]
+    },
+    "properties": {
+    "Date":"30 May",
+    "Time":"1710h - 1740h",
+    "Location":"Woodlands North Plaza (863 Woodlands Street 62)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8937225,1.3725894 ]
+    },
+    "properties": {
+    "Date":"30 May",
+    "Time":"1110h - 1200h",
+    "Location":"Hougang Mall (90 Hougang Avenue 1)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7378006,1.3437065 ]
+    },
+    "properties": {
+    "Date":"30 May",
+    "Time":"0900h - 1100h",
+    "Location":"Yuhua Village Market and Food Centre (254 Jurong East Street 24)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9069223,1.3023012 ]
+    },
+    "properties": {
+    "Date":"29 May",
+    "Time":"1800h - 1830h",
+    "Location":"82 Marine Parade Central"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8238701,1.3050606 ]
+    },
+    "properties": {
+    "Date":"29 May",
+    "Time":"1305h - 1335h",
+    "Location":"Tanglin Mall (163 Tanglin Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8474521,1.4249893 ]
+    },
+    "properties": {
+    "Date":"28 May",
+    "Time":"1330h - 1400h",
+    "Location":"Giant (418 Yishun Avenue 11)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8466415,1.4245498 ]
+    },
+    "properties": {
+    "Date":"28 May",
+    "Time":"1300h - 1330h",
+    "Location":"NTUC FairPrice (414 Yishun Ring Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8487631,1.3506808 ]
+    },
+    "properties": {
+    "Date":"27 May",
+    "Time":"1130h - 1200h",
+    "Location":"Junction 8 (9 Bishan Place)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8487631,1.3506808 ]
+    },
+    "properties": {
+    "Date":"26 May",
+    "Time":"1005h - 1035h",
+    "Location":"Junction 8 (8 Bishan Place)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8982767,1.3167284 ]
+    },
+    "properties": {
+    "Date":"26 May",
+    "Time":"0900h - 1030h",
+    "Location":"Geylang Serai Market and Food Centre (1 Geylang Serai)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7468395,1.3348154 ]
+    },
+    "properties": {
+    "Date":"25 May",
+    "Time":"1945h - 2115h",
+    "Location":"IMM (2 Jurong East Street 21)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7208215,1.3347767 ]
+    },
+    "properties": {
+    "Date":"25 May",
+    "Time":"1600h - 1630h",
+    "Location":"Taman Jurong Shopping Centre (389 Yung Sheng Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7468395,1.3348154 ]
+    },
+    "properties": {
+    "Date":"25 May",
+    "Time":"1310h - 1425h",
+    "Location":"IMM (2 Jurong East Street 21)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7181654,1.3498657 ]
+    },
+    "properties": {
+    "Date":"25 May",
+    "Time":"1100h - 1200h",
+    "Location":"Jurong West 505 Market and Food Centre (505 Jurong West St 52)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7432656,1.3328303 ]
+    },
+    "properties": {
+    "Date":"24 May",
+    "Time":"2130h - 2220h",
+    "Location":"JEM (50 Jurong Gateway Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7067297,1.3397443 ]
+    },
+    "properties": {
+    "Date":"24 May",
+    "Time":"1300h - 1400h",
+    "Location":"Jurong Point (1 Jurong West Central 2)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7632971,1.3785171 ]
+    },
+    "properties": {
+    "Date":"24 May",
+    "Time":"1230h - 1300h",
+    "Location":"Hillion Mall (17 Petir Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7642339,1.3800396 ]
+    },
+    "properties": {
+    "Date":"24 May",
+    "Time":"1200h - 1230h",
+    "Location":"Bukit Panjang Plaza (1 Jelebu Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.6921349,1.341939 ]
+    },
+    "properties": {
+    "Date":"24 May",
+    "Time":"0600h - 0800h",
+    "Location":"Wet market at Block 963 Jurong West Street 91"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7208215,1.3347767 ]
+    },
+    "properties": {
+    "Date":"22 May",
+    "Time":"2030h - 2100h",
+    "Location":"Taman Jurong Shopping Centre (339 Yung Sheng Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7067297,1.3397443 ]
+    },
+    "properties": {
+    "Date":"21 May",
+    "Time":"1730h - 1830h",
+    "Location":"Jurong Point (1 Jurong West Central 2)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7208215,1.3347767 ]
+    },
+    "properties": {
+    "Date":"20 May",
+    "Time":"1900h - 2000h",
+    "Location":"Taman Jurong Shopping Centre (339 Yung Sheng Road)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7067297,1.3397443 ]
+    },
+    "properties": {
+    "Date":"20 May",
+    "Time":"1630h - 1800h",
+    "Location":"Jurong Point (1 Jurong West Central 2)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9052333,1.3013366 ]
+    },
+    "properties": {
+    "Date":"20 May",
+    "Time":"1500h - 1600h",
+    "Location":"Parkway Parade (80 Marine Parade)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8388296,1.3741844 ]
+    },
+    "properties": {
+    "Date":"19 May",
+    "Time":"1045h - 1115h",
+    "Location":"Mayflower Market and Food Centre (162 Ang Mo Kio Avenue 4)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8435656,1.2750063 ]
+    },
+    "properties": {
+    "Date":"17 May",
+    "Time":"1240h - 1400h",
+    "Location":"100AM (100 Tras Street)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7181654,1.3498657 ]
+    },
+    "properties": {
+    "Date":"17 May",
+    "Time":"0900h - 0930h",
+    "Location":"Jurong West 505 Market and Food Centre (505 Jurong West St 52)"
+    }
+  }
+]
+}
