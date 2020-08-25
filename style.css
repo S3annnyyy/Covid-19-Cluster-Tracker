@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #333;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  font-size: 45px;
+  font-weight: 300;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  grid-gap: 13px;
+}
+
+.container > div {
+  cursor: pointer;
+  height: 210px;
+  background: url('Images/Coronavirus.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  transition: all .3s ease-in;
+}
+
+.covid-visualisation:hover {
+  opacity: 0.7;
+  transform: scale(0.99);
+}
+
+.graph-sg:hover {
+  opacity: 0.7;
+  transform: scale(0.99);
+}
+.covid-worldwide:hover {
+  opacity: 0.7;
+  transform: scale(0.99);
+}
+
+.bar-chart-race:hover {
+  opacity: 0.7;
+  transform: scale(0.99);
+}
+
+.artist-illustration:hover {
+  opacity: 0.7;
+  transform: scale(0.99);
+}
+
+.covid-video:hover {
+  opacity: 0.7;
+  transform: scale(0.99);
+}
+.container > div:nth-of-type(1) {
+  grid-column: 1/5;
+}
+
+.container > div:nth-of-type(3) {
+  grid-column: 2/4;
+}
+
+.container > div:nth-of-type(6) {
+  grid-column: 2/4;
+}
+
+.container > div:nth-of-type(8) {
+  grid-column: 1/5;
+}
